@@ -54,19 +54,3 @@ gcc -Wall -Wextra -std=c11 *.c -o demo && ./demo
 
 Open `data/sample-telemetry.jsonl` to inspect representative console output. This is
 useful when validating your hardware wiring or cloud logging pipeline.
-
-## Additional Notes (Legacy Content)
-
-# Using AI to Code: Your Step-by-Step Guide
-
-- Course: Using AI to Code: Your Step-by-Step Guide
-- Author: Ashraf S A AlMadhoun
-- Link: https://www.udemy.com/course/using-ai-to-code-your-step-by-step-guide/?couponCode=JULYMAXDICOUNT
-
-## Overview
-
-Leverage AI to accelerate embedded development with structured steps from requirements to validation.
-
-## Purchase With Discount
-
-Enroll using the link above to get a discounted price and boost your productivity with AI.

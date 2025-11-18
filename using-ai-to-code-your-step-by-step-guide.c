@@ -6,6 +6,14 @@
  * Notes: Auto-generated metadata block (2025-11-18)
  */
 
+/*
+ * Course: Using Ai To Code Your Step By Step Guide
+ * Platform: Embedded Systems
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include <stdio.h> // Include I/O for AI-assisted steps
 
 // Simulated steps for AI-assisted embedded coding workflow
